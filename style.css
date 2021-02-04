@@ -1,0 +1,149 @@
+/* Universal Styles */
+* {
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    background-color: #E6513C;
+}
+
+/* Header */
+h1 {
+
+    text-align: center;
+    width: 100%;
+    margin: 0px auto;
+    color: #256FE6;
+    font-size: 80px;
+    letter-spacing: 5px;
+    text-shadow: 1px 1px 0px #FFF,
+    2px 2px 0px #FFF,
+    4px 4px 0px #FFF;
+}
+
+h3 {
+    font-style: italic;
+    color: #FFFFFF;
+    margin-top: 0px;
+}
+
+/* Navigation */
+.breadcrumb li {
+    display: inline;
+}
+.breadcrumb a {
+    color: #E6513C;
+  background: white;
+  border: 2px solid white;
+  border-radius: 10px;
+  text-decoration: none;
+  position: relative;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  margin-right: 15px;
+  padding: 5px 5px;
+}
+
+a:hover {
+    color: white;
+    background: #E6513C;
+}
+
+/* About */
+.about h2 {
+    line-height: 2;
+    background-color: white;
+    color: #E6513C;
+    border-radius: 20px;
+    margin: 100px 400px;
+    margin-bottom: 50px;
+    font-size:larger;
+    padding: 20px 20px;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    font-size: 30px;
+}
+
+.headshots li {
+    display: inline;
+    
+}
+
+.headshots li figure img {
+    border-radius: 360px;
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+}
+
+figure {
+    display: inline-block;
+}
+
+.about p {
+    line-height: 2;
+    background-color: white;
+    color: #E6513C;
+    border-radius: 20px;
+    margin: 0px 150px;
+    font-size:larger;
+    padding: 20px 40px;
+}
+
+/* Data */
+.data h2 {
+    line-height: 2;
+    background-color: white;
+    color: #E6513C;
+    border-radius: 20px;
+    margin: 100px 400px;
+    font-size:larger;
+    padding: 20px 20px;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    font-size: 30px;
+}
+
+.data li {
+    display: inline;
+}
+
+.graphs li figure img {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px black;
+    width: 600px;
+    height: 400px;
+}
+
+.graphs li a {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px black;
+    width: 600px;
+    height: 400px;
+}
+
+/* Methodology */
+.methodology h2 {
+    line-height: 2;
+    background-color: white;
+    color: #E6513C;
+    border-radius: 20px;
+    margin: 100px 400px;
+    font-size:larger;
+    padding: 20px 20px;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    font-size: 30px;
+}
+
+.methodology p {
+    line-height: 2;
+    background-color: white;
+    color: #E6513C;
+    border-radius: 20px;
+    margin: 0px 150px;
+    font-size:larger;
+    padding: 20px 40px;
