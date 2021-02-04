@@ -51,20 +51,6 @@ a:hover {
 }
 
 /* About */
-.about h2 {
-    line-height: 2;
-    background-color: white;
-    color: #E6513C;
-    border-radius: 20px;
-    margin: 100px 400px;
-    margin-bottom: 50px;
-    font-size:larger;
-    padding: 20px 20px;
-    text-transform: uppercase;
-    letter-spacing: 20px;
-    font-size: 30px;
-}
-
 .headshots li {
     display: inline;
     
@@ -102,9 +88,9 @@ figure {
     background-color: white;
     color: #E6513C;
     border-radius: 20px;
-    margin: 100px 400px;
+    margin: 20px 400px;
     font-size:larger;
-    padding: 20px 20px;
+    padding: 5px 5px;
     text-transform: uppercase;
     letter-spacing: 20px;
     font-size: 30px;
@@ -136,9 +122,9 @@ figure {
     background-color: white;
     color: #E6513C;
     border-radius: 20px;
-    margin: 100px 400px;
+    margin: 20px 400px;
     font-size:larger;
-    padding: 20px 20px;
+    padding: 5px 5px;
     text-transform: uppercase;
     letter-spacing: 20px;
     font-size: 30px;
