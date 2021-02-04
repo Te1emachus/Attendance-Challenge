@@ -91,6 +91,11 @@ figure {
     padding: 20px 40px;
 }
 
+.about p strong {
+    backgroundcolor: white;
+    color: #E6513C;
+}
+
 /* Data */
 .data h2 {
     line-height: 2;
