@@ -50,6 +50,12 @@ a:hover {
     background: #E6513C;
 }
 
+a:active {
+    -webkit-box-shadow: inset 1px 1px 10px orange;
+   -moz-box-shadow:    inset 1px 1px 10px orange;
+   box-shadow:         inset 1px 1px 10px orange;
+}
+
 /* About */
 .headshots li {
     display: inline;
