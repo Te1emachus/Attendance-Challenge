@@ -105,14 +105,8 @@ figure {
     box-shadow: 3px 3px 3px black;
     width: 600px;
     height: 400px;
-}
-
-.graphs li a {
-    background-color: white;
-    border-radius: 20px;
-    box-shadow: 3px 3px 3px black;
-    width: 600px;
-    height: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 /* Methodology */
