@@ -29,3 +29,10 @@ a:active {
    -moz-box-shadow:    inset 1px 1px 10px orange;
    box-shadow:         inset 1px 1px 10px orange;
 }
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
