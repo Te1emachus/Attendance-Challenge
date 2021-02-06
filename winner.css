@@ -1,4 +1,31 @@
-img {
-    width: 95%;
-    height: 90%;
+* {
+    background-color: #E6513C;
+}
+
+.breadcrumb li {
+    display: inline;
+}
+.breadcrumb a {
+    color: #E6513C;
+  background: white;
+  border: 2px solid white;
+  border-radius: 10px;
+  text-decoration: none;
+  position: relative;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  margin-right: 15px;
+  padding: 5px 5px;
+}
+
+a:hover {
+    color: white;
+    background: #E6513C;
+}
+
+a:active {
+    -webkit-box-shadow: inset 1px 1px 10px orange;
+   -moz-box-shadow:    inset 1px 1px 10px orange;
+   box-shadow:         inset 1px 1px 10px orange;
 }
